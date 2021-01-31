@@ -1,12 +1,12 @@
 import React from 'react';
-//import Navbar from '../components/Navbar'
+import Navbar from '../components/Navbar/Navbar';
 
 const Home = () => {
 
     return (
         <>
             
-            <p>Navbar component</p>
+            <Navbar />
             <p>Section component</p>
         </>
 

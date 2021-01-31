@@ -1,14 +1,16 @@
 import * as React from 'react';
-import './App.css';
+//import './App.css';
 import Home from './pages/Home';
-//import { BrowserRouter as Router } from 'react-router-dom';
+import { BrowserRouter as Router } from 'react-router-dom';
 
 function App() {
   return (<>
     <div className="App">
-          <Home/>
+      <Router >
+        <Home />
+      </Router>
     </div>
-    </>
+  </>
   );
 }
 
