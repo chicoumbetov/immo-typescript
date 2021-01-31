@@ -1,17 +1,20 @@
 import { Nav, NavLinks,
     NavbarContainer, 
     NavLogo, NavMenu, 
-    NavItem
+    NavItem, MobileIcon
    } from './NavbarElements';
 import logo from "./images/logo-prospec-immo.png";
+import { FaBars} from 'react-icons/fa';
 
-const Navbar = () => {
+const Navbar = ({toggle}: any) => {
     return (
         <>
             <Nav>
                 <NavbarContainer>
                     <NavLogo to="/product">{<img src={logo} className="logo-image" alt="logo"/>}</NavLogo>
-                    
+                    <MobileIcon onClick={toggle}>
+                        <FaBars />
+                    </MobileIcon>
                     <NavMenu>
 
                         <NavItem>
