@@ -1,5 +1,7 @@
 import React from 'react';
+import Header from '../components/Header/Header';
 import Navbar from '../components/Navbar/Navbar';
+import Section from '../components/Section/Section';
 
 const Home = () => {
 
@@ -7,7 +9,8 @@ const Home = () => {
         <>
             
             <Navbar />
-            <p>Section component</p>
+            <Header/>
+            <Section />
         </>
 
     )
