@@ -31,7 +31,7 @@ export const NavbarContainer = styled.div`
 
 export const NavLogo = styled(LinkR)`
     color: #fff;
-    height: 50px;
+    height: 40px;
     width: 320px;
     cursor: pointer;
     font-size: 1.5rem;
