@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/immo-typescript/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/immo-typescript/static/js/main.e85aeb17.chunk.js",
+    "main.js.map": "/immo-typescript/static/js/main.e85aeb17.chunk.js.map",
+    "runtime-main.js": "/immo-typescript/static/js/runtime-main.c81ce982.js",
+    "runtime-main.js.map": "/immo-typescript/static/js/runtime-main.c81ce982.js.map",
+    "static/js/2.f7c2069c.chunk.js": "/immo-typescript/static/js/2.f7c2069c.chunk.js",
+    "static/js/2.f7c2069c.chunk.js.map": "/immo-typescript/static/js/2.f7c2069c.chunk.js.map",
+    "index.html": "/immo-typescript/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/immo-typescript/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f7c2069c.chunk.js.LICENSE.txt": "/immo-typescript/static/js/2.f7c2069c.chunk.js.LICENSE.txt",
+    "static/media/immo-back.61571bee.JPG": "/immo-typescript/static/media/immo-back.61571bee.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c81ce982.js",
+    "static/js/2.f7c2069c.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.e85aeb17.chunk.js"
+  ]
+}
